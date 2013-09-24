@@ -1,0 +1,9 @@
+lettersMatch <-function(x,y) {
+  for (n in x) {
+    if (n=grepl(y,x))
+  }
+  n
+  }
+  
+piSeries <-function(n)
+  pp <- 4()
